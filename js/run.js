@@ -1,0 +1,7 @@
+/**
+ * @author khiraiwa
+ */
+
+function start() {
+    
+}
